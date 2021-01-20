@@ -1,4 +1,2 @@
-*.TeX linguist-detectable=false
-*.HTML linguist-detectable=false
-*.Text linguist-detectable=false
-*.TeX linguist-detectable=false
+*.toc linguist-detectable=false
+*.html linguist-detectable=false
